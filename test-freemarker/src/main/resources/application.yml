@@ -1,0 +1,9 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: test-freemarker
+  freemaker:
+    cache: false
+    settings:
+      template_uodate_delay: 0
